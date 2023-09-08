@@ -86,7 +86,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"Frutiger36"
+		"font"			"Futura36"
 		"fgcolor"		"White"
 	}
 	"PlayerStatusMaxHealthValue"

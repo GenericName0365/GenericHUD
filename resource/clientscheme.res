@@ -3271,124 +3271,374 @@ Scheme
 			}
 		}
 		
-		"LEMON MILK Bold12"
+		"TheBoldFont-Bold12"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Bold12"
-				"name"		"LEMON MILK Bold"
+				"name"		"TheBoldFont-Bold12"
+				"name"		"TheBoldFont-Bold"
 				"tall"		"12"
 				"antialias" "1"
 			}
 		}
 		
-		"LEMON MILK Bold16"
+		"TheBoldFont-Bold16"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Bold16"
-				"name"		"LEMON MILK Bold"
+				"name"		"TheBoldFont-Bold16"
+				"name"		"TheBoldFont-Bold"
 				"tall"		"16"
 				"antialias" "1"
 			}
 		}
 		
-		"LEMON MILK Bold18"
+		"TheBoldFont-Bold18"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Bold18"
-				"name"		"LEMON MILK Bold"
+				"name"		"TheBoldFont-Bold18"
+				"name"		"TheBoldFont-Bold"
 				"tall"		"18"
 				"antialias" "1"
 			}
 		}
 		
-		"LEMON MILK Bold20"
+		"TheBoldFont-Bold20"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Bold20"
-				"name"		"LEMON MILK Bold"
+				"name"		"TheBoldFont-Bold20"
+				"name"		"TheBoldFont-Bold"
 				"tall"		"12"
 				"antialias" "1"
 			}
 		}
 		
-		"LEMON MILK Bold22"
+		"TheBoldFont-Bold22"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Bold22"
-				"name"		"LEMON MILK Bold"
+				"name"		"TheBoldFont-Bold22"
+				"name"		"TheBoldFont-Bold"
 				"tall"		"22"
 				"antialias" "1"
 			}
 		}
 		
-		"LEMON MILK Bold24"
+		"TheBoldFont-Bold24"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Bold24"
-				"name"		"LEMON MILK Bold"
+				"name"		"TheBoldFont-Bold24"
+				"name"		"TheBoldFont-Bold"
 				"tall"		"24"
 				"antialias" "1"
 			}
 		}
 		
-		"LEMON MILK Bold28"
+		"TheBoldFont-Bold28"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Bold28"
-				"name"		"LEMON MILK Bold"
+				"name"		"TheBoldFont-Bold28"
+				"name"		"TheBoldFont-Bold"
 				"tall"		"28"
 				"antialias" "1"
 			}
 		}
 		
-		"LEMON MILK Bold30"
+		"TheBoldFont-Bold30"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Bold30"
-				"name"		"LEMON MILK Bold"
+				"name"		"TheBoldFont-Bold30"
+				"name"		"TheBoldFont-Bold"
 				"tall"		"30"
 				"antialias" "1"
 			}
 		}
 		
-		"LEMON MILK Bold32"
+		"TheBoldFont-Bold32"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Bold32"
-				"name"		"LEMON MILK Bold"
+				"name"		"TheBoldFont-Bold32"
+				"name"		"TheBoldFont-Bold"
 				"tall"		"32"
 				"antialias" "1"
 			}
 		}
 		
-		"LEMON MILK Bold36"
+		"TheBoldFont-Bold36"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Bold36"
-				"name"		"LEMON MILK Bold"
+				"name"		"TheBoldFont-Bold36"
+				"name"		"TheBoldFont-Bold"
 				"tall"		"36"
 				"antialias" "1"
 			}
 		}
 		
-		"LEMON MILK Bold48"
+		"TheBoldFont-Bold48"
 		{
 			"1"
 			{
-				"name"		"LEMON MILK Bold48"
-				"name"		"LEMON MILK Bold"
+				"name"		"TheBoldFont-Bold48"
+				"name"		"TheBoldFont-Bold"
 				"tall"		"48"
 				"antialias" "1"
+			}
+		}
+		
+		"Futura4"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"4"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura8"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"8"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura12"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"12"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura16"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"16"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura20"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"20"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura24"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"24"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura28"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"28"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura32"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"32"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura36"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"36"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura40"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"40"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura44"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"44"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura48"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"48"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura52"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"52"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura56"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"56"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura60"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"60"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura64"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"64"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura68"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"68"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura72"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"72"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura76"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"76"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura80"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"80"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura84"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"84"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura88"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"88"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura92"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"92"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura96"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"96"
+				"antialias" 	"1"
+			}
+		}
+		
+		"Futura100"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"100"
+				"antialias" 	"1"
 			}
 		}
 	}
@@ -6218,7 +6468,13 @@ Scheme
 	    }
 		"10"
 		{
-		"font"	"resource/fonts/LEMONMILKBold.ttf"
-		"name" "LEMON MILK Bold"
+		"font"	"resource/fonts/THEBOLDFONT.ttf"
+		"name" "TheBoldFont-Bold"
+		}
+		
+		"11"
+		{
+			"font" "resource/fonts/Futura.ttf"
+			"name" "Futura No2 D Demi Bold"
 		}
 	}

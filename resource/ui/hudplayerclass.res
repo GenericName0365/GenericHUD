@@ -5,7 +5,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerClass"
-		"xpos"			"60"
+		"xpos"			"60000"
 		"ypos"			"14"
 		"ypos_minmode"	"18"
 		"zpos"			"1"
@@ -113,7 +113,8 @@
 		"wide"			"109"
 		"tall"			"50"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
+		"enabled"		"0"
 		"scaleImage"	"1"
 		"image"				"../hud/character_red_bg_clipped"	
 		"teambg_2"			"../hud/character_red_bg_clipped"
