@@ -22,8 +22,8 @@
 		"ypos_minmode"	"r36"	[$WIN32]
 		"xpos"	"r131"	[$X360]
 		"ypos"	"r77"	[$X360]
-		"wide"	"1366"
-		"tall"	"768"
+		"wide"	"853"
+		"tall"	"480"
 	}
 	
 	HudObjectiveStatus
@@ -33,8 +33,8 @@
 		"enabled" "1"
 		"xpos"	"0"
 		"ypos"	"0"
-		"wide"	"1366"
-		"tall"	"768"
+		"wide"	"853"
+		"tall"	"480"
 	}	
 	
 	HudKothTimeStatus
@@ -44,8 +44,8 @@
 		"enabled" "1"
 		"xpos"	"c-100"
 		"ypos"	"0"
-		"wide"	"1366"
-		"tall"	"768"
+		"wide"	"853"
+		"tall"	"480"
 		
 		"blue_active_xpos"			"16"
 		"blue_active_xpos_minmode"	"55"
@@ -59,14 +59,10 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r162"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r50"	[$WIN32]
-		"xpos"			"r194"	[$X360]
-		"ypos"			"r74"	[$X360]
-		"wide"			"1366"
-		"tall"			"768"
+		"xpos"			"c-18"	[$WIN32]
+		"ypos"			"c0"	[$WIN32]
+		"wide"			"36"
+		"tall"			"3"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -82,8 +78,8 @@
 		"ypos_minmode"	"r34"	[$WIN32]
 		"xpos"			"r174"	[$X360]
 		"ypos"			"r90"	[$X360]
-		"wide"			"1366"
-		"tall"			"768"
+		"wide"			"853"
+		"tall"			"480"
 	}
 	
 	HudDemomanCharge
@@ -98,9 +94,9 @@
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
-		"wide"			"1366"
+		"wide"			"853"
 		"wide_minmode"	"50"
-		"tall"			"768"
+		"tall"			"480"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}	
@@ -117,9 +113,9 @@
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
-		"wide"			"1366"
+		"wide"			"853"
 		"wide_minmode"	"50"
-		"tall"			"768"
+		"tall"			"480"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -136,9 +132,9 @@
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
-		"wide"			"1366"
+		"wide"			"853"
 		"wide_minmode"	"50"
-		"tall"			"768"
+		"tall"			"480"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -151,8 +147,8 @@
 		"xpos"			"c-100"
 		"ypos"			"42"
 		"zpos"			"0"			// draw in front of ammo
-		"wide"			"1366"
-		"tall"			"768"
+		"wide"			"853"
+		"tall"			"480"
 		"MeterFG"		"Red"
 		"MeterBG"		"Gray"
 	}
@@ -161,9 +157,9 @@
 	{
 		"fieldName" "HudWeaponSelection"
 		"xpos"	"0"
-		"wide"	"1366"
+		"wide"	"853"
 		"ypos" 	"0"
-		"tall"	"768"
+		"tall"	"480"
 		"RightMargin" "0"
 		"RightMargin_hidef" "32"
 		"RightMargin_lodef" "38"
@@ -204,8 +200,8 @@
 		"ypos_minmode"			"r134"	[$WIN32]
 		"xpos"					"r194"	[$X360]
 		"ypos"					"r174"	[$X360]
-		"wide"					"1366"
-		"tall"  				"768"
+		"wide"					"853"
+		"tall"  				"480"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
@@ -218,8 +214,8 @@
 		"xpos_minmode"			"61"
 		"ypos"					"r152"
 		"ypos_minmode"			"r134"
-		"wide"					"1366"
-		"tall"  				"768"
+		"wide"					"853"
+		"tall"  				"480"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
@@ -230,8 +226,8 @@
 		"fieldName"				"CDamageAccountPanel"
 		"xpos"					"0"
 		"ypos"					"0"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
@@ -247,8 +243,8 @@
 		"ypos"		"r70"	[$WIN32]
 		"xpos"		"50"	[$X360]
 		"ypos"		"330"	[$X360]
-		"wide"		"1366"
-		"tall"		"768"
+		"wide"		"853"
+		"tall"		"480"
 		"TextFont"	"Default"	[$X360]
 	}
 
@@ -279,8 +275,8 @@
 		"enabled" 	"1"
 		"xpos"		"c-126"
 		"ypos"		"250"
-		"wide"	 	"1366"
-		"tall"	 	"768"
+		"wide"	 	"853"
+		"tall"	 	"480"
 		"tall_minmode"	 	"28"
 		"priority"	"40"
 		"priority_lodef" "35"
@@ -296,8 +292,8 @@
 		"enabled" 	"1"
 		"xpos"		"c-126"
 		"ypos"		"335"
-		"wide"	 	"1366"
-		"tall"	 	"768"
+		"wide"	 	"853"
+		"tall"	 	"480"
 		"tall_minmode"	 	"28"
 		"priority"	"35"
 
@@ -318,8 +314,8 @@
 		"ypos"		"0"	[$WIN32]
 		"xpos"		"32"	[$X360]
 		"ypos"		"16"	[$X360]		
-		"wide"		"1366"
-		"tall"		"768"
+		"wide"		"853"
+		"tall"		"480"
 		
 		"PaintBackgroundType"	"2"
 	}
@@ -335,8 +331,8 @@
 		"ypos"		"0"
 		"ypos_hidef"		"16"
 		"ypos_lodef"		"25"
-		"wide"		"1366"
-		"tall"		"768"
+		"wide"		"853"
+		"tall"		"480"
 		
 		"PaintBackgroundType"	"2"
 	}
@@ -349,8 +345,8 @@
 		"xpos"		"0"
 		"ypos"		"0"
 		"zpos"		"1"
-		"wide"		"1366"
-		"tall"		"768"
+		"wide"		"853"
+		"tall"		"480"
 		
 		"PaintBackgroundType"	"2"
 	}
@@ -361,8 +357,8 @@
 		"fieldName"			"CurrencyStatusPanel"
 		"xpos"				"0"
 		"ypos"				"r100"
-		"wide"				"1366"
-		"tall"				"768"
+		"wide"				"853"
+		"tall"				"480"
 		"xpos_minmode"		"65"
 		"ypos_minmode"		"r88"
 		"visible" 			"0"
@@ -376,8 +372,8 @@
 		"fieldName" "HudProgressBar"
 		"xpos"	"c-150"
 		"ypos"	"300"
-		"wide"	"1366"
-		"tall"  "768"
+		"wide"	"853"
+		"tall"  "480"
 		"visible" "1"
 		"enabled" "1"
 
@@ -391,8 +387,8 @@
 		"fieldName" "HudRoundTimer"
 		"xpos"	"c-20"
 		"ypos"	"440"
-		"wide"	"1366"
-		"tall"  "768"
+		"wide"	"853"
+		"tall"  "480"
 		"visible" "1"
 		"enabled" "1"
 		
@@ -411,8 +407,8 @@
 		"fieldName" "HudScenarioIcon"
 		"xpos"	"c110"
 		"ypos"	"443"
-		"wide"	"1366"
-		"tall"  "768"
+		"wide"	"853"
+		"tall"  "480"
 		"visible" "1"
 		"enabled" "1"
 
@@ -428,8 +424,8 @@
 		"enabled" "1"
 		"xpos"	"16"
 		"ypos"	"370"
-		"wide"	"1366"
-		"tall"	"768"
+		"wide"	"853"
+		"tall"	"480"
 		
 		"text_xpos" "8"
 		"text_ypos" "6"
@@ -550,8 +546,8 @@
 		"fieldName" "ScorePanel"
 		"visible" "1"
 		"enabled" "1"
-		"wide"	 "1366"
-		"tall"	 "768"
+		"wide"	 "853"
+		"tall"	 "480"
 	}
 
 	HudTrain
@@ -577,8 +573,8 @@
 		"fieldName" "HudMessage"
 		"visible" "1"
 		"enabled" "1"
-		"wide"	 "1366"
-		"tall"	 "768"
+		"wide"	 "853"
+		"tall"	 "480"
 	}
 
 	HudMenu
@@ -586,8 +582,8 @@
 		"fieldName" "HudMenu"
 		"visible" "1"
 		"enabled" "1"
-		"wide"	 "1366"
-		"tall"	 "768"
+		"wide"	 "853"
+		"tall"	 "480"
 		"zpos" "1"
 
 		"TextFont"				"Default"
@@ -600,8 +596,8 @@
 		"fieldName" "HudSpellMenu"
 		"visible" "1"
 		"enabled" "1"
-		"wide"	 "1366"
-		"tall"	 "768"
+		"wide"	 "853"
+		"tall"	 "480"
 		"zpos" 	"2"
 		"xpos"			"130"
 		"ypos"			"r61"
@@ -619,8 +615,8 @@
 		"xpos"		"c-250"
 		"ypos"		"276"	[$WIN32]
 		"ypos"		"236"	[$X360]
-		"wide"		"1366"
-		"tall"		"768"	[$WIN32]
+		"wide"		"853"
+		"tall"		"480"	[$WIN32]
 		"tall"		"176"	[$X360]
 
 		"BgAlpha"	"128"
@@ -658,8 +654,8 @@
 		"fieldName" "HUDQuickInfo"
 		"visible" "1"
 		"enabled" "1"
-		"wide"	 "1366"
-		"tall"	 "768"
+		"wide"	 "853"
+		"tall"	 "480"
 	}
 
 	HudWeapon
@@ -667,8 +663,8 @@
 		"fieldName" "HudWeapon"
 		"visible" "1"
 		"enabled" "1"
-		"wide"	 "1366"
-		"tall"	 "768"
+		"wide"	 "853"
+		"tall"	 "480"
 	}
 	HudAnimationInfo
 	{
@@ -840,8 +836,8 @@
 		"fieldName"				"HudControlPointIcons"
 		"xpos"					"0"
 		"ypos"					"410"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 		"visible"				"1"
 		"enabled"				"1"
 		"separator_width"		"9"	// distance between the icons (including their backgrounds)
@@ -855,8 +851,8 @@
 		"fieldName"				"HudCapturePanel"
 		"xpos"					"c-75"
 		"ypos"					"c80"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 		"visible"				"1"
 		"enabled"				"1"
 		"icon_space"			"2"
@@ -892,8 +888,8 @@
 		"enabled"				"1"
 		"xpos"					"c-225"
 		"ypos"					"250"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 	}
 	
 	PVEWinPanel
@@ -903,8 +899,8 @@
 		"enabled"				"1"
 		"xpos"					"c-150"
 		"ypos"					"255"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 	}
 
 	StatPanel
@@ -916,9 +912,9 @@
 		"xpos_lodef"			"c-190"
 		"ypos"				"270"
 		"ypos_lodef"			"250"
-		"wide"					"1366"
+		"wide"					"853"
 		"wide_lodef"			"400"
-		"tall"					"768"
+		"tall"					"480"
 		"tall_lodef"			"190"
 	}
 	
@@ -991,8 +987,8 @@
 		"xpos"			"10"	[$WIN32]
 		"xpos"			"42"	[$X360]
 		"ypos"			"275"
-		"wide"	 		"1366"
-		"tall"	 		"768"
+		"wide"	 		"853"
+		"tall"	 		"480"
 		"PaintBackgroundType"	"2"
 	}
 	
@@ -1003,8 +999,8 @@
 		"enabled" 		"1"
 		"xpos"			"c-225"
 		"ypos"			"c-55"
-		"wide"			"1366"
-		"tall"			"768"
+		"wide"			"853"
+		"tall"			"480"
 		"PaintBackgroundType"	"0"
 	}
 	
@@ -1015,8 +1011,8 @@
 		"enabled" 		"1"
 		"xpos"			"c-225"
 		"ypos"			"c-59"
-		"wide"			"1366"
-		"tall"			"768"
+		"wide"			"853"
+		"tall"			"480"
 		"PaintBackgroundType"	"0"
 	}
 
@@ -1027,8 +1023,8 @@
 		"enabled" 		"1"
 		"xpos"			"c-125"
 		"ypos"			"c-55"
-		"wide"			"1366"
-		"tall"			"768"
+		"wide"			"853"
+		"tall"			"480"
 		"PaintBackgroundType"	"0"
 	}
 	
@@ -1041,8 +1037,8 @@
 		"ypos"			"c-52"
 		"ypos_hidef"	"c-42"
 		"ypos_lodef"	"c-42"
-		"wide"			"1366"
-		"tall"			"768"	[$WIN32]
+		"wide"			"853"
+		"tall"			"480"	[$WIN32]
 		"tall"			"180"	[$X360]
 		"PaintBackgroundType"	"0"
 	}	
@@ -1058,8 +1054,8 @@
 		"ypos_minmode"	"r30"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
-		"wide"			"1366"
-		"tall"			"768"
+		"wide"			"853"
+		"tall"			"480"
 	}	
 
 	HudTeamGoal
@@ -1070,8 +1066,8 @@
 		"xpos"					"c-160"
 		"ypos"					"65"
 		"ypos_lodef"			"75"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 	}
 
 
@@ -1083,8 +1079,8 @@
 		"xpos"					"c-160"
 		"ypos"					"15"
 		"ypos_lodef"			"75"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 	}
 
 	HudTeamSwitch
@@ -1096,8 +1092,8 @@
 		"ypos"					"75"
 		"ypos_hidef"				"90"
 		"ypos_lodef"			"90"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 	}
 
 	HudArenaNotification
@@ -1109,8 +1105,8 @@
 		"ypos"					"75"
 		"ypos_hidef"				"90"
 		"ypos_lodef"				"90"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 	}
 
 	HudArenaCapPointCountdown
@@ -1120,8 +1116,8 @@
 		"enabled"				"1"
 		"xpos"					"c-15"
 		"ypos"					"442"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 		"zpos"					"99"
 	}
 
@@ -1133,8 +1129,8 @@
 		"xpos"					"c-160"
 		"ypos"					"65"
 		"ypos_lodef"				"75"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 	}
 	HudTournament
 	{
@@ -1145,8 +1141,8 @@
 		"ypos"					"5"
 		"ypos_lodef"				"75"
 		"zpos"					"2"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 	}
 
 	HudTournamentSetup
@@ -1157,8 +1153,8 @@
 		"xpos"					"c-90"
 		"ypos"					"-70"
 		"ypos_lodef"				"75"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 	}
 
 	HudStopWatch
@@ -1170,8 +1166,8 @@
 		"ypos"					"5"
 		"ypos_minmode"				"15"
 		"ypos_lodef"				"75"
-		"wide"					"1366"
-		"tall"					"768"
+		"wide"					"853"
+		"tall"					"480"
 	}
 	
 	NotificationPanel
@@ -1192,9 +1188,9 @@
 		"enabled"				"1"
 		"xpos"					"0"
 		"ypos"					"180"
-		"wide"					"1366"	[$WIN32]
+		"wide"					"853"	[$WIN32]
 		"wide"					"f60"	[$X360]
-		"tall"					"768"
+		"tall"					"480"
 	}
 
 	CriticalPanel [$WIN32]
@@ -1249,8 +1245,8 @@
 		"NormalY"		"10"
 		"EngineerY"		"170"
 		"zpos"			"2"
-		"wide"			"1366"
-		"tall"			"768"
+		"wide"			"853"
+		"tall"			"480"
 		"visible"		"1"
 		"enabled"		"1"	
 	}
@@ -1420,8 +1416,8 @@
 		"ypos"			"c-52"
 		"ypos_hidef"	"c-42"
 		"ypos_lodef"	"c-42"
-		"wide"			"1366"
-		"tall"			"768"
+		"wide"			"853"
+		"tall"			"480"
 		"PaintBackgroundType"	"0"
 	}
 

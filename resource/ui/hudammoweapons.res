@@ -44,7 +44,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"Frutiger48"
+		"font"			"Futura48"
 		"fgcolor"		"White"
 		"xpos"			"3"
 		"xpos_minmode"	"4"
@@ -89,7 +89,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"Frutiger20"
+		"font"			"Futura20"
 		"font_lodef"	"HudFontMedium"
 		"font_minmode"	"HudFontSmall"
 		"fgcolor"		"White"
@@ -131,7 +131,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"Frutiger Bold48"
+		"font"			"Futura48"
 		"fgcolor"		"TanLight"
 		"xpos"			"0"
 		"ypos"			"2"
