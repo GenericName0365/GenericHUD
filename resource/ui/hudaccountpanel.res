@@ -54,9 +54,10 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValue"
-		"xpos"			"50"
-		"ypos"			"104"
-		"ypos_lodef"	"121"
+		"xpos"			"95"
+		"xpos_minmode"			"60"
+		"ypos"			"127"
+		"ypos_minmode"	"95"
 		"zpos"			"2"
 		"wide"			"55"
 		"tall"			"26"
@@ -69,7 +70,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Frutiger Bold30"
+		"font"			"Futura28"
 		"font_lodef"	"HudFontMedium"
 	}
 }

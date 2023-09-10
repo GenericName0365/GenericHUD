@@ -226,7 +226,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"TFLogoImage"
-		"xpos"			"c-290"
+		"xpos"			"c-200"
 		"ypos"			"32"
 		"zpos"			"1"
 		"wide"			"256"
@@ -242,7 +242,7 @@
 	{
 		// "ControlName"	"ImagePanel"
 		"fieldName"		"TFCharacterImage"
-		"xpos"			"c-250"
+		"xpos"			"c-0"
 		"ypos"			"-80"
 		"zpos"			"-99"
 		"wide"			"600"
@@ -583,8 +583,8 @@
 		"tall"			"32"
 		"autoResize"	"0"
 		"pinCorner"		"3"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"tabPosition"	"0"
 		
 		"navUp"			"Notifications_Panel"
