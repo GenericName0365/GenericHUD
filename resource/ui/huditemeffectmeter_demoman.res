@@ -9,6 +9,8 @@
 		"ypos"			"r75"	[$WIN32]
 		"xpos_minmode"	"r70"	[$WIN32]
 		"ypos_minmode"	"r74"	[$WIN32]
+		"xpos_minmode"	"r850"	[$WIN32]
+		"ypos_minmode"	"r65"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"1366"
@@ -97,6 +99,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
+		"brighttext"			"1"
 		"font"					"Futura24"
 	}
 }
