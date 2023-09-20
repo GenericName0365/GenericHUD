@@ -226,7 +226,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"TFLogoImage"
-		"xpos"			"c-200"
+		"xpos"			"c-250"
 		"ypos"			"32"
 		"zpos"			"1"
 		"wide"			"256"
@@ -242,7 +242,7 @@
 	{
 		// "ControlName"	"ImagePanel"
 		"fieldName"		"TFCharacterImage"
-		"xpos"			"c-0"
+		"xpos"			"c-100"
 		"ypos"			"-80"
 		"zpos"			"-99"
 		"wide"			"600"

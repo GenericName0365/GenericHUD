@@ -53,10 +53,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"73"	[$WIN32]
+		"xpos"			"75"	[$WIN32]
 		"xpos_minmode"	"65"	[$WIN32]
-		"xpos"			"83"	[$X360]
-		"ypos"			"33"	[$WIN32]
+		"xpos"			"60"	[$X360]
+		"ypos"			"25"	[$WIN32]
 		"ypos_minmode"	"40"	[$WIN32]
 		"ypos"			"43"	[$X360]
 		"zpos"			"2"
@@ -75,9 +75,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"74"
+		"xpos"			"80"
 		"xpos_minmode"	"20"
-		"ypos"			"50"	[$WIN32]
+		"ypos"			"40"	[$WIN32]
 		"ypos"			""	[$X360]
 		"zpos"			"5"
 		"wide"			"55"

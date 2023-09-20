@@ -86,8 +86,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"0"
-		"ypos"					"0"
+		"xpos"					"5"
+		"ypos"					"-5"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
@@ -98,8 +98,9 @@
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"
 		"dulltext"				"0"
-		"brighttext"			"0"
+		"brighttext"			"1"
 		"brighttext"			"1"
 		"font"					"Futura24"
+		"fgcolor"		"White"
 	}
 }
