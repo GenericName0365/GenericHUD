@@ -24,12 +24,12 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"75"
-		"xpos_minmode"	"60"
+		"xpos"			"0"
+		"xpos_minmode"	"0"
 		"ypos"			"35"
 		"zpos"			"4"
-		"wide"			"5100000"
-		"tall"			"51000000"
+		"wide"			"51"
+		"tall"			"51"
 		"visible"		"0"
 		"enabled"		"0"
 		"scaleImage"	"1"	
@@ -53,10 +53,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"73"	[$WIN32]
+		"xpos"			"75"	[$WIN32]
 		"xpos_minmode"	"65"	[$WIN32]
-		"xpos"			"83"	[$X360]
-		"ypos"			"33"	[$WIN32]
+		"xpos"			"60"	[$X360]
+		"ypos"			"25"	[$WIN32]
 		"ypos_minmode"	"40"	[$WIN32]
 		"ypos"			"43"	[$X360]
 		"zpos"			"2"
@@ -75,9 +75,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"74"
+		"xpos"			"93"
 		"xpos_minmode"	"20"
-		"ypos"			"50"	[$WIN32]
+		"ypos"			"40"	[$WIN32]
 		"ypos"			""	[$X360]
 		"zpos"			"5"
 		"wide"			"55"
@@ -86,8 +86,8 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"Futura36"
-		"fgcolor"		"White"
+		"font"			"FuturaDS36"
+		"fgcolor"		"TanLight"
 	}
 	"PlayerStatusMaxHealthValue"
 	{
@@ -98,13 +98,13 @@
 		"ypos"			"20"	[$WIN32]
 		"ypos"			"55"	[$X360]
 		"zpos"			"6"
-		"wide"			"500000000"
-		"tall"			"18000000000"
+		"wide"			"5"
+		"tall"			"18"
 		"visible"		"0"
 		"enabled"		"1"
 		"labelText"		"%MaxHealth%"
 		"textAlignment"	"center"	
-		"font"			"DefaultSmall"
+		"font"			"Futura36"
 		"fgcolor"		"TanDark"
 	}
 	"PlayerStatusBleedImage"
