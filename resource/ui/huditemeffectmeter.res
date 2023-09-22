@@ -61,6 +61,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"FuturaDS12"
+		"font"					"Futura12"
 	}
 
 	"ItemEffectMeter"

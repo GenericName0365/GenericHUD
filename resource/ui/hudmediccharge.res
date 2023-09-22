@@ -39,6 +39,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"FuturaDS36"
+		"font"			"Futura36"
 		"fgcolor"		"White"
 	}
 
