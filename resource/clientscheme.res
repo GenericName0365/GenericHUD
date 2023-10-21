@@ -25,6 +25,12 @@ Scheme
 		"GoalOrange"		"255 133 0"
 		"TFOrange"			"145 73 59 255"
 		"Purple"			"137 69 99 255"
+		
+		"G_Overheal"			"60 255 0 255" // Overhealed health value color
+		"G_LowHealthValue"		"255 0 0 255" // Low health value color
+		"G_AmmoClipValue"		"255 255 255 255" // Ammo in clip value color
+		"G_AmmoReserveValue"	"255 255 255 255" // Ammo in reserve value color
+		"G_LowAmmo"				"255 0 0 255" // Low ammo color
 
 		"QuestGold"			"208 147 75 255"
 		"HalloweenThemeColor2015_Light"	"238 126 17 255"
@@ -3639,6 +3645,304 @@ Scheme
 				"name"		"Futura No2 D Demi Bold"
 				"tall"		"100"
 				"antialias" 	"1"
+			}
+		}
+		
+		// drop shadow
+		"FuturaDS4"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"4"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS8"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"8"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS12"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"12"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS16"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"16"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS20"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"20"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS24"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"24"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS28"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"28"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS32"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"32"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS36"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"36"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS38"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"38"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS40"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"40"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS42"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"42"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS44"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"44"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS48"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"48"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS52"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"52"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS56"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"56"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS60"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"60"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS64"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"64"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS68"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"68"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS72"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"72"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS76"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"76"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS80"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"80"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS84"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"84"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS88"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"88"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS92"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"92"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS96"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"96"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
+			}
+		}
+		
+		"FuturaDS100"
+		{
+			"1"
+			{
+				"name"		"Futura No2 D Demi Bold"
+				"tall"		"100"
+				"antialias" 	"1"
+				"dropshadow" 	"1"
 			}
 		}
 	}

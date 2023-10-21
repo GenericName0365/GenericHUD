@@ -12,7 +12,7 @@
 		"ypos_minmode"	"r83"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r124"	[$X360]
-		"wide"			"100"
+		"wide"			"1000"
 		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -22,7 +22,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"12"
+		"xpos"			"12000000"
 		"ypos"			"0"
 		"zpos"			"0"
 		"wide"			"100"
@@ -73,7 +73,7 @@
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
 		"zpos"					"2"
-		"wide"					"30"
+		"wide"					"100"
 		"wide_minmode"			"50"
 		"tall"					"5"				
 		"autoResize"			"0"

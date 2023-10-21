@@ -7,8 +7,8 @@
 		"enabled" "1"
 		"xpos"	"0"
 		"ypos"	"0"
-		"wide"	"f0"
-		"tall"	"480"
+		"wide"	"1366"
+		"tall"	"768"
 	}
 
 	HudWeaponAmmo
@@ -16,14 +16,14 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"r95"	[$WIN32]
-		"xpos_minmode"	"r85"	[$WIN32]
-		"ypos"	"r55"	[$WIN32]
-		"ypos_minmode"	"r36"	[$WIN32]
+		"xpos"	"r115"	[$WIN32]
+		"xpos_minmode"	"r345"	[$WIN32]
+		"ypos"	"r70" [$WIN32]
+		"ypos_minmode"	"r200"	[$WIN32]
 		"xpos"	"r131"	[$X360]
 		"ypos"	"r77"	[$X360]
-		"wide"	"853"
-		"tall"	"480"
+		"wide"	"1366"
+		"tall"	"768"
 	}
 	
 	HudObjectiveStatus
@@ -42,7 +42,7 @@
 		"fieldName" "HudKothTimeStatus"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c-100"
+		"xpos"	"0"
 		"ypos"	"0"
 		"wide"	"853"
 		"tall"	"480"
@@ -59,10 +59,11 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-18"	[$WIN32]
+		"xpos"			"c-18"		[$WIN32]
+		"xpos_minmode" "c-20"
 		"ypos"			"c0"	[$WIN32]
-		"wide"			"36"
-		"tall"			"3"
+		"wide"			"200"
+		"tall"			"300"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -73,13 +74,13 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r138"	[$WIN32]
-		"xpos_minmode"	"r100"	[$WIN32]
+		"xpos_minmode"	"r346"	[$WIN32]
 		"ypos"			"r69"	[$WIN32]
-		"ypos_minmode"	"r34"	[$WIN32]
+		"ypos_minmode"	"r173"	[$WIN32]
 		"xpos"			"r174"	[$X360]
 		"ypos"			"r90"	[$X360]
-		"wide"			"853"
-		"tall"			"480"
+		"wide"			"1366"
+		"tall"			"768"
 	}
 	
 	HudDemomanCharge
@@ -88,9 +89,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
+		"xpos_minmode"	"r451"	[$WIN32]
+		"ypos"			"r65"	[$WIN32]
+		"ypos_minmode"	"r100"	[$WIN32]
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
@@ -195,9 +196,9 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"r162"	[$WIN32]
-		"ypos"					"r152"	[$WIN32]
-		"ypos_minmode"			"r134"	[$WIN32]
+		"xpos"					"r450"	[$WIN32]
+		"ypos"					"c75"	[$WIN32]
+		"ypos_minmode"			"c75"	[$WIN32]
 		"xpos"					"r194"	[$X360]
 		"ypos"					"r174"	[$X360]
 		"wide"					"853"
@@ -275,8 +276,8 @@
 		"enabled" 	"1"
 		"xpos"		"c-126"
 		"ypos"		"250"
-		"wide"	 	"853"
-		"tall"	 	"480"
+		"wide"	 	"252"
+		"tall"	 	"35"
 		"tall_minmode"	 	"28"
 		"priority"	"40"
 		"priority_lodef" "35"
@@ -292,8 +293,8 @@
 		"enabled" 	"1"
 		"xpos"		"c-126"
 		"ypos"		"335"
-		"wide"	 	"853"
-		"tall"	 	"480"
+		"wide"	 	"252"
+		"tall"	 	"35"
 		"tall_minmode"	 	"28"
 		"priority"	"35"
 
@@ -1048,10 +1049,10 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r162"	[$WIN32]
-		"xpos_minmode"	"r110"	[$WIN32]
-		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r30"	[$WIN32]
+		"xpos"			"r490"	[$WIN32]
+		"xpos_minmode"	"r490"	[$WIN32]
+		"ypos"			"r199"	[$WIN32]
+		"ypos_minmode"	"r200"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"853"
