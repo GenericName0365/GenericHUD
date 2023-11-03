@@ -12,10 +12,10 @@
 	{
 		"ControlName"		"CTFHudTimeStatus"
 		"fieldName"			"BlueTimer"
-		"xpos"				"0"
-		"xpos_minmode"		"20"
-		"ypos"				"0"
-		"ypos_minmode"		"-14"
+		"xpos"				"312"
+		"xpos_minmode"		"312"
+		"ypos"				"432"
+		"ypos_minmode"		"432"
 		"zpos"				"2"
 		"wide"				"100"
 		"tall"				"150"
@@ -27,7 +27,7 @@
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"HudFontMedium"
+		"delta_item_font"		"Futura18"
 
 		if_match
 		{
@@ -42,16 +42,16 @@
 			"PositiveColor"			"0 255 0 255"
 			"NegativeColor"			"255 0 0 255"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontMediumSmall"
+			"delta_item_font"		"Futura20"
 		}
 		
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"HudFontMediumSmall"
-			"font_minmode"	"HudFontSmall"
-			"font_lodef"	"HudFontMedium"
+			"font"			"FuturaDS20"
+			"font_minmode"	"Futura18"
+			"font_lodef"	"Futura18"
 			"fgcolor"		"TanLight"
 			"xpos"			"23"
 			"xpos_minmode"	"39"
@@ -82,9 +82,9 @@
 				"tall"			"10"
 				"wide"			"35"
 				"wide_minmode"	"35"
-				"font"			"HudFontSmall"
-				"font_minmode"	"HudFontSmall"
-				"font_lodef"	"HudFontSmall"
+				"font"			"Futura12"
+				"font_minmode"	"Futura12"
+				"font_lodef"	"Futura12"
 			
 			}
 		}	
@@ -94,10 +94,10 @@
 	{
 		"ControlName"		"CTFHudTimeStatus"
 		"fieldName"			"RedTimer"
-		"xpos"				"90"
-		"xpos_minmode"		"70"
-		"ypos"				"0"
-		"ypos_minmode"		"-14"
+		"xpos"				"430"
+		"xpos_minmode"		"430"
+		"ypos"				"432"
+		"ypos_minmode"		"432"
 		"zpos"				"2"
 		"wide"				"100"
 		"tall"				"150"
@@ -109,7 +109,7 @@
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"HudFontMedium"
+		"delta_item_font"		"Futura20"
 
 		if_match
 		{
@@ -124,16 +124,16 @@
 			"PositiveColor"			"0 255 0 255"
 			"NegativeColor"			"255 0 0 255"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontMediumSmall"
+			"delta_item_font"		"Futura12"
 		}
 		
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"HudFontMediumSmall"
-			"font_minmode"	"HudFontSmall"
-			"font_lodef"	"HudFontMedium"
+			"font"			"FuturaDS20"
+			"font_minmode"	"Futura18"
+			"font_lodef"	"Futura18"
 			"fgcolor"		"TanLight"
 			"xpos"			"23"
 			"xpos_minmode"	"39"
@@ -164,9 +164,9 @@
 				"wide"			"35"
 				"wide_minmode"	"35"
 				"tall"			"10"
-				"font"			"HudFontSmall"
-				"font_minmode"	"HudFontSmall"
-				"font_lodef"	"HudFontSmall"
+				"font"			"Futura12"
+				"font_minmode"	"Futura12"
+				"font_lodef"	"Futura12"
 			
 			}
 		}	
@@ -176,7 +176,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"ActiveTimerBG"
-		"xpos"				"0"
+		"xpos"				"10000000000"
 		"ypos"				"9"
 		"ypos_minmode"		"-4"
 		"zpos"				"1"

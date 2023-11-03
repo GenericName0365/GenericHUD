@@ -153,8 +153,8 @@
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
-		"fov"			"70"
+		"enabled"		"0"
+		"fov"			"10000000000000"
 		"proportionaltoparent"	"1"
 		
 		"model"
@@ -310,15 +310,15 @@
 			"PositiveColor"			"0 255 0 255"
 			"NegativeColor"			"255 0 0 255"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontMediumSmall"
+			"delta_item_font"		"SegoeUI16"
 		}
 		
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"HudFontMediumSmall"
-			"font_minmode"	"HudFontSmall"
+			"font"			"SegoeUI16"
+			"font_minmode"	"SegoeUI16"
 			"font_lodef"	"HudFontMedium"
 			"fgcolor"		"TanLight"
 			"xpos"			"23"
@@ -347,8 +347,8 @@
 				"ypos"			"12"
 				"ypos_minmode"	"12"
 				"tall"			"10"
-				"font"			"HudFontSmall"
-				"font_minmode"	"HudFontSmall"
+				"font"			"SegoeUI16"
+				"font_minmode"	"SegoeUI16"
 				"font_lodef"	"HudFontSmall"
 			}
 		}	

@@ -10,7 +10,7 @@
 		"xpos_minmode"	"r70"	[$WIN32]
 		"ypos_minmode"	"r74"	[$WIN32]
 		"xpos_minmode"	"r850"	[$WIN32]
-		"ypos_minmode"	"r65"	[$WIN32]
+		"ypos_minmode"	"r220"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"1366"
@@ -67,8 +67,6 @@
 		"font"					"Default"
 		"xpos"					"25"
 		"ypos"					"23"
-		"ypos_minmode"			"0"
-		"xpos_minmode"			"0"
 		"zpos"					"2"
 		"wide"					"40"
 		"wide_minmode"			"50"
@@ -86,8 +84,9 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"0"
+		"xpos"					"6"
 		"ypos"					"0"
+		"xpos_minmode"			"235"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
@@ -98,8 +97,9 @@
 		"labelText"				"%progresscount%"
 		"textAlignment"			"north"
 		"dulltext"				"0"
-		"brighttext"			"0"
 		"brighttext"			"1"
-		"font"					"Futura24"
+		"brighttext"			"1"
+		"font"					"FuturaDS24"
+		"fgcolor"		"White"
 	}
 }

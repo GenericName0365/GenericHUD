@@ -115,8 +115,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScore"
-		"xpos"			"c-110"
-		"ypos"			"r65"
+		"xpos"			"c-25"
+		"ypos"			"r58"
 		"ypos_lodef"	"r88"
 		"ypos_hidef"	"r93"
 		"zpos"			"8"
@@ -128,7 +128,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
-		"font"			"HudFontBig"
+		"font"			"SegoeUIDS38"
 		"font_hidef"	"HudFontGiant"
 		"font_lodef"	"HudFontGiant"
 		"fgcolor"		"TanLight"
@@ -153,8 +153,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScoreShadow"
-		"xpos"			"c-108"
-		"ypos"			"r64"
+		"xpos"			"c-7000000000000000"
+		"ypos"			"r58"
 		"ypos_lodef"	"r87"
 		"ypos_hidef"	"r92"
 		"zpos"			"7"
@@ -162,11 +162,11 @@
 		"tall"			"35"
 		"tall_hidef"	"100"
 		"tall_lodef"	"75"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
-		"font"			"HudFontBig"
+		"font"			"SegoeUIDS38"
 		"font_hidef"	"HudFontGiant"
 		"font_lodef"	"HudFontGiant"
 		"fgcolor"		"Black"
@@ -191,8 +191,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedScore"
-		"xpos"			"c35"
-		"ypos"			"r65"
+		"xpos"			"c-50"
+		"ypos"			"r58"
 		"ypos_lodef"	"r88"
 		"ypos_hidef"	"r93"
 		"zpos"			"8"
@@ -204,7 +204,7 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
-		"font"			"HudFontBig"
+		"font"			"SegoeUIDS38"
 		"font_hidef"	"HudFontGiant"
 		"font_lodef"	"HudFontGiant"
 		"fgcolor"		"TanLight"		
@@ -229,7 +229,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedScoreShadow"
-		"xpos"			"c37"
+		"xpos"			"c37-000000000000000000000"
 		"ypos"			"r64"
 		"ypos_lodef"	"r87"
 		"ypos_hidef"	"r92"
@@ -238,8 +238,8 @@
 		"tall"			"35"
 		"tall_hidef"	"100"
 		"tall_lodef"	"75"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
 		"font"			"HudFontBig"
@@ -381,12 +381,12 @@
 	{
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"BlueFlag"
-		"xpos"			"c-120"
-		"ypos"			"r95"	[$WIN32]
+		"xpos"			"c-146"
+		"ypos"			"r80"	[$WIN32]
 		"ypos"			"r116"	[$X360]
 		"zpos"			"5"
-		"wide"			"160"
-		"tall"			"90"
+		"wide"			"120"
+		"tall"			"70"
 		"visible"		"1"
 		"enabled"		"1"
 		
@@ -421,8 +421,8 @@
 	{
 		"ControlName"	"CTFFlagStatus"
 		"fieldName"		"RedFlag"
-		"xpos"			"c-40"
-		"ypos"			"r95"	[$WIN32]
+		"xpos"			"c-16"
+		"ypos"			"r80"	[$WIN32]
 		"ypos"			"r116"	[$X360]
 		"zpos"			"5"
 		"wide"			"160"
