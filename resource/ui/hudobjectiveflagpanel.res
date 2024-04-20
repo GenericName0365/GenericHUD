@@ -22,8 +22,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LeftSideBG"
-		"xpos"			"c-140"
-		"ypos"			"r75"	[$WIN32]
+		"xpos"			"c-90"
+		"ypos"			"r80"	[$WIN32]
 		"ypos"			"r96"	[$X360]
 		"zpos"			"1"
 		"wide"			"280"
@@ -53,8 +53,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"RightSideBG"
-		"xpos"			"c-140"
-		"ypos"			"r75"	[$WIN32]
+		"xpos"			"c-200"
+		"ypos"			"r93"	[$WIN32]
 		"ypos"			"r96"	[$X360]
 		"zpos"			"1"
 		"wide"			"280"
@@ -116,7 +116,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScore"
 		"xpos"			"c-25"
-		"ypos"			"r58"
+		"ypos"			"r60"
 		"ypos_lodef"	"r88"
 		"ypos_hidef"	"r93"
 		"zpos"			"8"
@@ -154,7 +154,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"BlueScoreShadow"
 		"xpos"			"c-7000000000000000"
-		"ypos"			"r58"
+		"ypos"			"r60"
 		"ypos_lodef"	"r87"
 		"ypos_hidef"	"r92"
 		"zpos"			"7"
@@ -192,7 +192,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"RedScore"
 		"xpos"			"c-50"
-		"ypos"			"r58"
+		"ypos"			"r60"
 		"ypos_lodef"	"r88"
 		"ypos_hidef"	"r93"
 		"zpos"			"8"

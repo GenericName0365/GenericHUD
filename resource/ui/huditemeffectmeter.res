@@ -41,8 +41,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"0"
-		"ypos"					"0"
+		"xpos"					"45"
+		"ypos"					"8"
 		"zpos"					"2"
 		"wide"					"41"
 		"tall"					"15"
@@ -57,6 +57,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"SegoeUIDS12"
+		"fgcolor_override"		"Black"
 	}
 
 	"ItemEffectMeter"
@@ -70,7 +71,7 @@
 		"xpos_minmode"			"0"
 		"zpos"					"2"
 		"wide"					"130"
-		"tall"					"5"				
+		"tall"					"10"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"

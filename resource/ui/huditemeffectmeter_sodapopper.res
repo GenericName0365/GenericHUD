@@ -7,7 +7,7 @@
 		"enabled"		"1"
 		"xpos"			"r490"	[$WIN32]
 		"xpos"			"r100"	[$WIN32]
-		"ypos"			"r170"	[$WIN32]
+		"ypos"			"r160"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"1000"
@@ -40,8 +40,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"0"
-		"ypos"					"0"
+		"xpos"					"45"
+		"ypos"					"8"
 		"zpos"					"2"
 		"wide"					"41"
 		"tall"					"15"
@@ -49,9 +49,7 @@
 		"pinCorner"				"2"
 		"visible"				"1"
 		"visible_minmode"		"1"
-		"ypos_minmode"			"1"
-		"xpos_minmode"			"0"
-		"textAlignment_minmode"			"west"
+		"textAlignment_minmode"			"center"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"#TF_Ball"
@@ -59,6 +57,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"SegoeUIDS12"
+		"fgcolor_override"		"Black"
 	}
 
 	"ItemEffectMeter"
@@ -70,7 +69,7 @@
 		"ypos"					"0"
 		"zpos"					"2"
 		"wide"					"130"
-		"tall"					"5"				
+		"tall"					"10"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"

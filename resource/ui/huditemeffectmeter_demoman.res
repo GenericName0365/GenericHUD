@@ -1,3 +1,4 @@
+#base "HudItemEffectMeter.res"
 "Resource/UI/HudItemEffectMeter_Demoman.res"
 {
 	HudItemEffectMeter
@@ -99,7 +100,7 @@
 		"dulltext"				"0"
 		"brighttext"			"1"
 		"brighttext"			"1"
-		"font"					"FuturaDS24"
-		"fgcolor"		"White"
+		"font"					"SegoeUIDS24"
+		"fgcolor_override"		"Black"
 	}
 }
